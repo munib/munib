@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @munib
-- 👀 I’m interested in backend development using any technology stack but most of the time I used NodeJS and PHP
+- 👀 I’m interested in Fullstack development using any technology stack but most of the time I used NodeJS and PHP
 - 🌱 I’m currently learning new concept and idea to build something for good.
 - 💞️ I’m looking to collaborate on SAAS service for e-commerce world.
 - 📫 How to reach me? drop a message here https://www.linkedin.com/in/munib-faridi/ 
